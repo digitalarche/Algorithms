@@ -1,0 +1,10 @@
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\obj\Debug\netcoreapp2.0\Quick Sort.csproj.CoreCompileInputs.cache
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\obj\Debug\netcoreapp2.0\Quick Sort.AssemblyInfoInputs.cache
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\obj\Debug\netcoreapp2.0\Quick Sort.AssemblyInfo.cs
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\bin\Debug\netcoreapp2.0\Quick Sort.deps.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\bin\Debug\netcoreapp2.0\Quick Sort.runtimeconfig.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\bin\Debug\netcoreapp2.0\Quick Sort.runtimeconfig.dev.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\bin\Debug\netcoreapp2.0\Quick Sort.dll
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\bin\Debug\netcoreapp2.0\Quick Sort.pdb
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\obj\Debug\netcoreapp2.0\Quick Sort.dll
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Quick Sort\obj\Debug\netcoreapp2.0\Quick Sort.pdb

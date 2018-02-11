@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Merge_Sort
+namespace MosheBinieli.Merge_Sort
 {
     class Program
     {
