@@ -1,0 +1,10 @@
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.deps.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.runtimeconfig.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.runtimeconfig.dev.json
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.dll
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.pdb
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.csproj.CoreCompileInputs.cache
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.AssemblyInfoInputs.cache
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.AssemblyInfo.cs
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.dll
+c:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.pdb
