@@ -8,8 +8,8 @@ namespace MosheBinieli.DFS___BFS
         {
             Graph graph = new Graph(4);
 
-            AddEdgesToGrapg(graph);
-            graph.PrintAdjacecnyMatrix();
+            AddEdgesToGraph(graph);
+            graph.PrintVerticesMatrix();
 
             Console.WriteLine("BFS traversal starting from vertex 2:");
             BFS bfs = new BFS(graph);
@@ -20,7 +20,7 @@ namespace MosheBinieli.DFS___BFS
             dfs.ExecuteAlgorithm(2);
         }
 
-        private static void AddEdgesToGrapg(Graph graph)
+        private static void AddEdgesToGraph(Graph graph)
         {
             graph.AddEdge(0, 1);
             graph.AddEdge(0, 2);

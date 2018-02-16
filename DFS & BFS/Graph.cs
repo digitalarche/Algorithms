@@ -25,7 +25,7 @@ public class Graph
         VerticesEdges[source].Add(destination);
     }
 
-    public void PrintAdjacecnyMatrix()
+    public void PrintVerticesMatrix()
     {
         for (int i = 0; i < VerticesAmount; i++)
         {
