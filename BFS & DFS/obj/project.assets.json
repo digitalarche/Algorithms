@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\Depth-First Search.csproj",
+      "projectUniqueName": "C:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\Depth-First Search.csproj",
       "projectName": "Depth-First Search",
-      "projectPath": "c:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\Depth-First Search.csproj",
+      "projectPath": "C:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\Depth-First Search.csproj",
       "packagesPath": "C:\\Users\\mmosh\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\obj\\",
+      "outputPath": "C:\\Users\\mmosh\\Desktop\\Moshe Files\\GitHub Projects\\Algorithms\\Depth-First Search\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
