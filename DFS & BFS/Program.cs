@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MosheBinieli.Depth_First_Search
+namespace MosheBinieli.DFS___BFS
 {
     class Program
     {

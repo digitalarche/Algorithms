@@ -17,18 +17,18 @@ public class BFS
     #region Public Methods
     public void ExecuteAlgorithm(int source)
     {
-        bool[] visited = new bool[graph.Vertices];
-
+        bool[] visited = new bool[graph.VerticesAmount];
         Queue<int> queue = new Queue<int>();
+
         visited[source] = true;
         queue.Enqueue(source);
 
         while (queue.Count != 0)
         {
             source = queue.Dequeue();
-            Console.WriteLine("next->" + source);
+            Console.WriteLine("Next-> " + source);
 
-            foreach (Int32 next in graph.adj[source])
+            foreach (int next in graph.VerticesEdges[source])
             {
                 if (!visited[next])
                 {

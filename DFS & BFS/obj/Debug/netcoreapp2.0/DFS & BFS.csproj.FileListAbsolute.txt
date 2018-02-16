@@ -1,0 +1,10 @@
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\bin\Debug\netcoreapp2.0\DFS & BFS.deps.json
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\bin\Debug\netcoreapp2.0\DFS & BFS.runtimeconfig.json
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\bin\Debug\netcoreapp2.0\DFS & BFS.runtimeconfig.dev.json
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\bin\Debug\netcoreapp2.0\DFS & BFS.dll
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\bin\Debug\netcoreapp2.0\DFS & BFS.pdb
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\obj\Debug\netcoreapp2.0\DFS & BFS.csproj.CoreCompileInputs.cache
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\obj\Debug\netcoreapp2.0\DFS & BFS.AssemblyInfoInputs.cache
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\obj\Debug\netcoreapp2.0\DFS & BFS.AssemblyInfo.cs
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\obj\Debug\netcoreapp2.0\DFS & BFS.dll
+C:\Users\mmosh\Desktop\Moshe Files\GitHub Projects\Algorithms\DFS & BFS\obj\Debug\netcoreapp2.0\DFS & BFS.pdb

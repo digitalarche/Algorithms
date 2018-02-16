@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Depth-First Search/1.0.0": {
+      "DFS & BFS/1.0.0": {
         "runtime": {
-          "Depth-First Search.dll": {}
+          "DFS & BFS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Depth-First Search/1.0.0": {
+    "DFS & BFS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

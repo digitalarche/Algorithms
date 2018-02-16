@@ -17,17 +17,18 @@ public class DFS
     #region Public Methods
     public void ExecuteAlgorithm(int source)
     {
-        bool[] visited = new bool[graph.Vertices];
-
+        bool[] visited = new bool[graph.VerticesAmount];
         Stack<int> stack = new Stack<int>();
+
         visited[source] = true;
         stack.Push(source);
 
         while (stack.Count != 0)
         {
             source = stack.Pop();
-            Console.WriteLine("next->" + source);
-            foreach (int i in graph.adj[source])
+            Console.WriteLine("Next-> " + source);
+
+            foreach (int i in graph.VerticesEdges[source])
             {
                 if (!visited[i])
                 {
